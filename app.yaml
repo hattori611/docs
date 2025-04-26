@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: Docs
+owner: hattori611
+package: .
